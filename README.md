@@ -18,3 +18,4 @@ It's positive purpose is two fold:
 ## Code
 
 * [Git](code/git.md)
+* [Pull requests](code/pull_requests.md)
