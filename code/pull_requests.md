@@ -2,10 +2,20 @@
 
 ## Why we do pull requests
 
-- It's good practice to have a second opinion
-- An extra pair of eyes shares knowledge and responsibility for the code going live
-- It's good to broadcast and socialise changes with other people
-- It's an opportunity to learn better ways of doing things
+It would be quickly catastrophic if we committed straight to master all the time. Why?
+
+- It'd make it harder to see nice atomic chunks of work
+- You would tread on other peoples code toes
+- It would be more work and harder to roll back/revert a feature or change.
+- There'd be no opportunity to benefit from the collective knowledge and experience of the team
+
+The benefits to doing pull requests are:
+
+- allow others to explore the consequences of a change
+- share information about what is changing
+- provide an opportunity for the team to help spot any potential oversights/shortcomings
+- provide an insight into how others have solved a problem/implemented a feature enabling you to learn from their experience
+- provide an opportunity to collaborate on improvements
 
 ## General guidance
 
