@@ -10,6 +10,17 @@ yourself is always an option.
 Rebasing is expected on feature branches, but we don't rebase master unless we
 have extremely good reason and we've talked about it as a team.
 
+## Branch naming
+
+Branches should be named using descriptive english that gives an indication of what's contained. Examples
+
+- Good: ops-upgrade-ruby
+- Less good: ruby
+- Good: remove-activeadmin-features
+- Less good: remove-test-stuff
+- Good: stop-using-an-unknown-cloudfront-host
+- Less good: fix-cloudfront
+
 ## Commit messages
 
 Writing good commit messages is important. Not just for yourself, but for other
