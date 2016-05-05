@@ -18,20 +18,39 @@
 ## Example Card
 
 ----
+
 **Title:**
+
 Describe what the ticket will solve
+
 **Members:**
+
 Add your face…
+
 **Labels:**
+
 Doing / Done / etc
+
 **Description:**
+
 This is where job story goes
+
 **Checklist:**
+
 If your ticket's large break it up into several tickets or make a checklist to show progress
+
 **Due Date:**
+
 if applicable
+
 **Attachments:**
+
 document with screenshots. Add a nice graphic to make the work nicer
+
 **Comments:**
-Use this to document the state you left the ticket in. Comments might get lost (if tickets are moved between boards) so don't use for critical information.
+
+Use this to document the state you left the ticket in. 
+Comments might get lost (if tickets are moved between boards) so don't use for critical information.
+
+
 ----
