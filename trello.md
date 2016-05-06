@@ -53,16 +53,15 @@ If your ticket's large break it up into several tickets or make a checklist to s
 
 **Due Date:**
 
-if applicable
+If applicable. Mostly for things like "renew secure certificate" or whatnot.
 
 **Attachments:**
 
-document with screenshots. Add a nice graphic to make the work nicer
+It's good practice to document visual changes with screenshots. Gifs showing how things work are great. You can also add a nice graphic to the card to make it nicer to look at.
 
 **Comments:**
 
-Use this to document the state you left the ticket in. 
-Comments might get lost (if tickets are moved between boards) so don't use for critical information.
-
+Use this to document the state you left the ticket in when moving it from one state to another.
+Comments might get lost (if tickets are moved between boards) so don't use for critical information, description is better suited for this.
 
 ----
