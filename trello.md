@@ -21,8 +21,8 @@
     + Our Example epic column is about the onboarding process so we'll call it "**🎟 Onboarding Process**"
     + The emoji (picked at random or with great care) will follow the tickets to the new board
     + So our ticket in **Ready (prioritised)** is called "🎟 Improve registration email copy" showing it's ancestral home.
-- Add your face to a card only when you're working on it (let's discuss this one)
-- Sorry, you have to move the card to Doing as well. 
+- Add your face to a card (press the spacebar, magic!) only when you're working on it.
+- Move the card you're working on to the Doing column. 
 
 ## Example Card
 
@@ -41,7 +41,7 @@ Let's keep current labels and iterate:
 Ops / Backend / Spike etc.
 
 **Description:**
-This is where job story goes.
+This is where job story <sup>[1](https://medium.com/the-job-to-be-done/replacing-the-user-story-with-the-job-story-af7cdee10c27#.fb8wrphl9)[2](https://blog.intercom.io/using-job-stories-design-features-ui-ux/)</sup> goes.
 
 When _____ , I want to _____ , so I can _____ .
 
