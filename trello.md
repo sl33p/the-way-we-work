@@ -41,7 +41,7 @@ Let's keep current labels and iterate:
 Ops / Backend / Spike etc.
 
 **Description:**
-This is where job story <sup>[1](https://medium.com/the-job-to-be-done/replacing-the-user-story-with-the-job-story-af7cdee10c27#.fb8wrphl9)[2](https://blog.intercom.io/using-job-stories-design-features-ui-ux/)</sup> goes.
+This is where job story <sup>[1], (https://medium.com/the-job-to-be-done/replacing-the-user-story-with-the-job-story-af7cdee10c27#.fb8wrphl9)[2](https://blog.intercom.io/using-job-stories-design-features-ui-ux/)</sup> goes.
 
 When _____ , I want to _____ , so I can _____ .
 
