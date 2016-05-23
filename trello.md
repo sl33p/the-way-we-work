@@ -47,6 +47,8 @@ When _____ , I want to _____ , so I can _____ .
 
 For example: When a customer signs up, I want the notification to be clear, so they understand how to register and login.
 
+As well as the user stories, you can include some words to describe the issue you think needs working on. Give some context so others can understand it. You should avoid talking in terms of solutions. Talk about what users need, rather than how they would go about it.
+
 **Checklist:**
 
 If your ticket's large break it up into several tickets or make a checklist to show progress
