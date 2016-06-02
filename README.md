@@ -17,5 +17,7 @@ It's positive purpose is two fold:
 
 ## Code
 
+* [General](code/general.md)
+* [JavaScript](code/javascript.md)
 * [Git](code/git.md)
 * [Pull requests](code/pull_requests.md)
