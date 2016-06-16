@@ -19,5 +19,7 @@ It's positive purpose is two fold:
 
 * [General](code/general.md)
 * [JavaScript](code/javascript.md)
+* [Ruby](code/ruby.md)
+* [CSS](code/css.md)
 * [Git](code/git.md)
 * [Pull requests](code/pull_requests.md)
