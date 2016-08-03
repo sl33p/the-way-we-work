@@ -113,3 +113,4 @@ format by adding a `.vimrc` file to your home directory:
 
 * [5 useful tips for a better commit message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
 * [Every line of code is always documented](http://mislav.net/2014/02/hidden-documentation/)
+* [Telling stories through your commits (slides and 9 minute video)](https://vimeo.com/album/4045988/video/172882423)
