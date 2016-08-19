@@ -24,7 +24,13 @@ The benefits to doing pull requests are:
 
 ## Opening a request
 
-- Before opening the PR, make sure you're up to date with `master` so that your changes are easier to merge.
+- Before opening the PR, make sure you're up to date with `master` so that your changes are easier to merge. For example:
+  ```
+  git checkout master
+  git pull
+  git checkout your-branch-name
+  git rebase master
+  ```
 - The title and description should help the reviewer. Make the title succinct and descriptive, and then add detail in the description
 - The description should summarise your changes and include useful links, eg to related pull requests. If the changes result in visual changes, screenshots are really useful
 - When raising a PR, the title and description are emailed to those following the repo. Any subsequent changes are not emailed, so it's worth spending a bit of time getting it right at the point of raising the PR.
