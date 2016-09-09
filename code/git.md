@@ -21,6 +21,22 @@ Branches should be named using descriptive english that gives an indication of w
 - Good: stop-using-an-unknown-cloudfront-host
 - Less good: fix-cloudfront
 
+## What to aim for in your commits
+
+A good commit is an atomic set of connected changes. When applied, a single commit should:
+
+* leave the project in a consistent state, ideally with all the tests passing
+* not include extraneous changes - typos or some tiny refactoring that you happened to make but which isn't directly related
+
+By breaking up changes into atomic commits:
+
+* we help make it clear what our intent was because the diff is as small as possible, and there's less to cram in to a commit message.
+* it's easier for others to learn from and to review
+* if someone needs to repeat what you've done in the future, they can do so easily
+* similarly, someone who needs to tweak or undo what you've done
+
+Commits don't have to start out perfect - you can use [`git rebase -i`](https://help.github.com/articles/using-git-rebase/) to amend or squash commits together.
+
 ## Commit messages
 
 Writing good commit messages is important. Not just for yourself, but for other
@@ -112,4 +128,5 @@ format by adding a `.vimrc` file to your home directory:
 ## Further reading
 
 * [5 useful tips for a better commit message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
-* [Every line of code is always documented](* [Every line of code is always documented](http://mislav.net/2014/02/hidden-documentation/)
+* [Every line of code is always documented](http://mislav.net/2014/02/hidden-documentation/)
+* [Telling stories through your commits (slides and 9 minute video)](https://vimeo.com/album/4045988/video/172882423)
