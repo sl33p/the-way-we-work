@@ -23,3 +23,7 @@ It's positive purpose is two fold:
 * [CSS](code/css.md)
 * [Git](code/git.md)
 * [Pull requests](code/pull_requests.md)
+
+## Deploying
+
+* [General](deploying/general.md)
