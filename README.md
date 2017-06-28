@@ -27,3 +27,4 @@ It's positive purpose is two fold:
 ## Deploying
 
 * [General](deploying/general.md)
+* [Test](http://example.com)
